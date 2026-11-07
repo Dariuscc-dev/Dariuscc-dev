@@ -25,7 +25,11 @@
 
 ## About Me
 
-I'm 22 and based in Málaga, Spain. I have a BSc in Marketing & Market Research from the University of Málaga, where my thesis was graded *Matrícula de Honor* (highest distinction), and I completed ThePowerMBA. I'm now studying the **Tridente program** at UTAMED: FP in Web Application Development (DAW), a university specialization in AI & Big Data, and a degree in Software Engineering.
+I'm 22 and based in Málaga, Spain. I have a BSc in Marketing & Market Research from the University of Málaga, where my thesis was graded *Matrícula de Honor* (highest distinction), and I completed ThePowerMBA. I'm now in the **Tridente program** at UTAMED, a 4.5-year path in three stages:
+
+- **Year 1 (now):** FP in Web Application Development (DAW)
+- **Year 2:** second year of FP DAW, combined with a university specialization in AI & Machine Learning
+- **Years 3 to 4.5:** degree in Computer Engineering
 
 I work as a recruitment consultant at QGROUP, placing software engineers and IT professionals in the Dutch tech market. That job means talking every day with developers and hiring managers about stacks, architectures and what a team actually needs. My own focus is moving towards **Data Engineering, Cloud and Applied AI**.
 
