@@ -1,11 +1,11 @@
-<h1 align="center">👋 Hi, my name is dislexia and I have Darius!</h1>
+<h1 align="center">Hi, I'm Darius 👋</h1>
 
 <p align="center">
-  <strong>Tech & Business Consultant · Aspiring Data & Cloud Engineer · Architect-Translator</strong>
+  <strong>Tech Recruitment Consultant · Aspiring Data & Cloud Engineer</strong>
 </p>
 
 <p align="center">
-  Bridging business strategy with deep technical infrastructure. Focused on Python, SQL, Azure, and Applied AI to build robust systems and operational intelligence for mission-critical environments.
+  Business background, now moving into data and cloud engineering. Working with Python, SQL, Power BI and Azure, and learning to build data pipelines and cloud services from the ground up.
 </p>
 
 <p align="center">
@@ -25,11 +25,11 @@
 
 ## About Me
 
-I am 22 years old, based in Málaga (Spain). With a foundational background in Business and Analytics (Graduated with *Matrícula de Honor* in Marketing & Market Research + MBA), I am currently executing a deep technical transition through the **"Tridente" high-performance program** at UTAMED (FP DAW + AI & ML Specialization + Software Engineering Degree).
+I'm 22 and based in Málaga, Spain. I have a BSc in Marketing & Market Research from the University of Málaga, where my thesis was graded *Matrícula de Honor* (highest distinction), and I completed ThePowerMBA. I'm now studying the **Tridente program** at UTAMED: FP in Web Application Development (DAW), a university specialization in AI & Big Data, and a degree in Software Engineering.
 
-Currently working as a Consultant at QGROUP, I act as an "Architect-Translator", bridging the gap between top-tier technical talent and complex global software ecosystems. However, my true path and daily focus are actively moving towards **Data Engineering, Cloud Architecture, and Applied AI**.
+I work as a recruitment consultant at QGROUP, placing software engineers and IT professionals in the Dutch tech market. That job means talking every day with developers and hiring managers about stacks, architectures and what a team actually needs. My own focus is moving towards **Data Engineering, Cloud and Applied AI**.
 
-I am a highly visual learner who likes to get to the "guts" of any problem: I need to understand the *why* of everything from the ground up before jumping to the final solution. My overarching goal is to apply the technical tools at my disposal to build robust systems, solve critical operational problems, and drive positive, ethical impact in the tech landscape.
+I learn best visually and need to understand *why* something works before I use it. That's why my repositories are full of notes that break concepts down from the basics. The goal is to use what I learn to build systems that solve real operational problems.
 
 ---
 
@@ -37,11 +37,12 @@ I am a highly visual learner who likes to get to the "guts" of any problem: I ne
 
 | Project | What it is | Stack / Focus |
 |---|---|---|
-| **[Thesis: Predictive Model for BME Growth](https://drive.google.com/drive/folders/1DeKmp8fAhwGKZO3F1cZQsOsExFoDgGBV?usp=sharing)** 🏆 | Awarded *Summa Cum Laude*. Pioneering project developing the world's first "Fear & Greed" index for illiquid Spanish markets (IBEX Growth Market 15) using algorithmic backtesting. | Python, Power BI, Quantitative Finance |
-| **[Living Web Stack](https://github.com/Dariuscc-dev/living-web-stack)** | Deep exploration of a web application's lifecycle, layer by layer: from HTTP requests and TLS, to relational databases, Linux infrastructure, and CI/CD automation. | HTML/CSS, Python, Node, SQL, Linux, Docker, CI/CD |
-| **[Customer Churn Analysis - Databel](https://github.com/Dariuscc-dev/Customer-Churn-Analysis---Databel-Telecom)** | Advanced BI dashboard analyzing customer churn patterns in telecom, identifying critical factors and key drivers in user behavior for retention strategies. | Power BI, DAX, Data Modeling, SQL |
-| **[Python Space Data Journey](https://github.com/Dariuscc-dev/python-space-data-journey)** | A project-based learning journey focused on space data, aviation, engineering, and extracting operational intelligence. | Python, SQL, Data Analysis |
-| **[Azure Architecture](https://github.com/Dariuscc-dev/azure-az900-architecture-project) & [Zero Trust](https://github.com/Dariuscc-dev/microsoft-sc900-zero-trust-blueprint)** | Practical implementation of cloud infrastructures (aligned with AZ-900) and the Zero Trust security model (aligned with SC-900). | Azure Cloud, Cybersecurity, Networking |
+| **[Thesis: Predictive Model for BME Growth](https://drive.google.com/drive/folders/1DeKmp8fAhwGKZO3F1cZQsOsExFoDgGBV?usp=sharing)** 🏆 | Graded *Matrícula de Honor*. The first "Fear & Greed" index built for an illiquid Spanish market (IBEX Growth Market 15), validated with algorithmic backtesting. | Python, Power BI, Quantitative Finance |
+| **[Living Web Stack](https://github.com/Dariuscc-dev/living-web-stack)** | How a web application works, layer by layer: HTTP requests and TLS, relational databases, Linux infrastructure and CI/CD automation. | HTML/CSS, Python, Node, SQL, Linux, Docker, CI/CD |
+| **[Customer Churn Analysis - Databel](https://github.com/Dariuscc-dev/Customer-Churn-Analysis---Databel-Telecom)** | Power BI dashboard that analyzes customer churn at a telecom company and identifies the main drivers behind it, to support retention decisions. | Power BI, DAX, Data Modeling, SQL |
+| **[Python Space Data Journey](https://github.com/Dariuscc-dev/python-space-data-journey)** | Learning Python through projects with space, aviation and engineering data. | Python, SQL, Data Analysis |
+| **[Azure Architecture](https://github.com/Dariuscc-dev/azure-az900-architecture-project) & [Zero Trust](https://github.com/Dariuscc-dev/microsoft-sc900-zero-trust-blueprint)** | Cloud infrastructure designs (based on AZ-900) and a Zero Trust security model (based on SC-900). | Azure, Cybersecurity, Networking |
+| **[1st Year FP DAW](https://github.com/Dariuscc-dev/1st_FP_DAW_YEAR)** | My notes, exercises and projects from the first year of DAW: Java, databases, HTML/CSS/XML, computer systems and development environments. | Java, SQL, HTML/CSS, XML, Git |
 
 ---
 
@@ -51,34 +52,32 @@ I am a highly visual learner who likes to get to the "guts" of any problem: I ne
 |---|---|
 | **Data & BI** | Power BI (PL-300), Python, SQL, DAX, Microsoft Fabric, Tableau, Excel |
 | **Cloud & DevOps** | Azure (AZ-900, SC-900), Git, GitHub Actions, Docker, CI/CD, Linux/Bash |
-| **Web & APIs** | HTML, CSS, JavaScript, Node.js, HTTP/HTTPS, SSL/TLS, REST Architectures |
-| **Business & Strategy** | FinOps, ROI Analysis, Quantitative Modeling, Prompt Engineering (Gemini/Claude) |
+| **Web & Programming** | Java, HTML, CSS, JavaScript, Node.js, HTTP/HTTPS, SSL/TLS, REST APIs |
+| **Business** | FinOps, ROI analysis, quantitative modeling, AI tools (Claude, Gemini) |
 
 ---
 
-## Development Roadmap & Where I'm Going
+## Roadmap
 
-My roadmap is designed to build a hybrid profile as a technical authority in Cloud Architecture and Data Engineering:
+Where I'm heading: a hybrid profile between data engineering and cloud architecture, with a business background to back it up.
 
-- **Core Path:** Python → SQL → Data Engineering → Backend APIs → Cloud → Applied ML.
-- **Domain Interest:** Aerospace, industrial operations, telemetry, and decision-support systems.
-- **What I aim to build:** Data ingestion pipelines, cloud-ready containerized services, and automated telemetry dashboards.
-- **Cloud Certifications Path:**
+- **Learning path:** Python → SQL → Data Engineering → Backend APIs → Cloud → Applied ML
+- **Domains I'm interested in:** aerospace, industrial operations, telemetry and decision-support systems
+- **What I want to build:** data ingestion pipelines, containerized cloud services and automated telemetry dashboards
+- **Certifications:**
   - ✅ **PL-300** (Power BI Data Analyst)
   - ✅ **AZ-900** (Azure Fundamentals)
-  - ✅ **SC-900** (Security, Compliance, and Identity)
-  - 🔄 **DP-700** (Microsoft Fabric Data Engineer) - *Currently learning*
-  - 🔜 **AZ-104 & AZ-305** (Azure Administrator & Solutions Architect) - *Next steps*
+  - ✅ **SC-900** (Security, Compliance, and Identity Fundamentals)
+  - 🔜 **DP-700** (Fabric Data Engineer), **AZ-104** (Azure Administrator) and **AZ-305** (Azure Solutions Architect)
 
 ---
 
-## Contact & Links
+## Contact
 
-- 🌐 **Online Portfolio:** [Dariuscc-dev.github.io](https://dariuscc-dev.github.io/)
-- 🐙 **GitHub:** [@Dariuscc-dev](https://github.com/Dariuscc-dev)
+- 🌐 **Portfolio:** [dariuscc-dev.github.io](https://dariuscc-dev.github.io/)
 - 💼 **LinkedIn:** [darius-chiosa](https://www.linkedin.com/in/darius-chiosa)
 - 📧 **Email:** [corina.dariusnicu@gmail.com](mailto:corina.dariusnicu@gmail.com)
 
 <p align="center">
-  <em>Translating code, infrastructure, and data into strategic value.</em>
+  <em>Turning code, infrastructure and data into business value.</em>
 </p>
